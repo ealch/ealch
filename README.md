@@ -23,6 +23,6 @@ const ealch = {
     pronouns: "he" | "him",
     code: ["JavaScript", "TypeScript", "HTML", "CSS"],
     askMeAbout: ["web devevelopment", "web performance", "tech", "hardware"],
-    technologies: ["React", "NextJS", "Webpack", "Jest", "Testing Library", "Tailwind CSS", "React-JSS"],
+    technologies: ["React", "NextJS", "Webpack", "Testing Library", "Tailwind CSS", "React-JSS"],
 };
 ```
