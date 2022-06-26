@@ -20,7 +20,7 @@
 ### A little more about me...  
 ```javascript
 const ealch = {
-    pronouns: "he" | "him",
+    pronouns: ["he", "him"],
     code: ["JavaScript", "TypeScript", "HTML", "CSS"],
     askMeAbout: ["web devevelopment", "web performance", "tech", "hardware"],
     technologies: ["React", "NextJS", "Webpack", "Testing Library", "Tailwind CSS", "React-JSS"],
