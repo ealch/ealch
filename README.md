@@ -10,8 +10,7 @@
   <em>A passionate frontend developer from <strong>Barcelona, Spain</strong></em>
 </p>
 <p>
-  <strong>Frontend Engineer</strong> at <a href="https://code.seat/">SEAT:CODE</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> 
-</p>
+  <strong>Senior Software Engineer</strong> at <a href="https://www.perk.com/">Perk</a>.
 <p>
   I have experience as a <strong>Web Developer</strong> working with different frameworks since 2015. I have a strong background in React and Angular. Moreover, I also worked on the Backend side with Java and Node.
 </p>
